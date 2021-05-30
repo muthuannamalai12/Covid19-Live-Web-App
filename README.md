@@ -18,6 +18,7 @@ The Web app named "Covid19-Live-Web-App" created to spread awareness about the C
 4. Recovered: Indicates the recovered cases in the country
 5. Deaths: Indicates the number of death cases in the country
 6. Total: Indicates the Total Number of Cases in the country
+
 This web app displays the covid-19 data for the entire world. You can select which country you need and can get the covid-19 cases in that country
 
 
